@@ -1,0 +1,16 @@
+// let str1="is";
+// let str2="beautiful";
+// let result=str1+str2;
+// console.log(result);
+// let Str1=+"17";
+// let Str2=+"3";
+// let result=Str1+Str2;
+// console.log(typeof result);
+// let age = 9;
+// let firstName = "Fatima";
+// let aboutme="My name is "+firstName+" and my age is "+age;
+// console.log(aboutme);
+let age = 9;
+let firstName = "Fatima";
+let aboutme=`My name is ${firstName} and my age is ${age}`;
+console.log(aboutme);

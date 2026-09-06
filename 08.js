@@ -1,0 +1,14 @@
+// let age=21;
+// let firstName="Fatima";
+// // console.log(typeof age);
+// // console.log(typeof firstName);
+// console.log(age+"");
+// console.log(typeof age+"");
+// console.log(typeof (age=""));
+// let myStr=+"22";
+// console.log(typeof myStr);
+let age=9;
+age = Number(age);
+console.log(typeof age);
+age = String(age);
+console.log(typeof age);
